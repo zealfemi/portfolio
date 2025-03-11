@@ -68,7 +68,7 @@ export const projects = [
   {
     title: "Avatar Healthcare",
     description:
-      "Avatar Healthcare is a powerful tool to search for your favorite movies and download their torrent files or copy magnet links to start downloading effortlessly.",
+      "Avatar Healthcare is an Healthcare empowering organization website built with WordPress.",
     year: "2023",
     technologies: "WordPress",
     image: "./avatarhealthcare.ca.png",
@@ -78,7 +78,7 @@ export const projects = [
   {
     title: "Ife Psychologia",
     description:
-      "The Ife Centre for Psychological Studies & Services (RC 011934) is a Non Profit, Non-Governmental Organization that is based in Nigeria since 1993.",
+      "Ife Psychologia is a non profit and non-governmental site built using pure HTML, Boostrap and Javascript.",
     year: "2023",
     technologies: "HTML, Bootstrap, JavaScript",
     image: "./ifepsychologia.org.png",
