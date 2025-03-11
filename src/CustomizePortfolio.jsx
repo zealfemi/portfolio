@@ -78,7 +78,7 @@ export const projects = [
   {
     title: "Ife Psychologia",
     description:
-      "Ife Psychologia is a non profit and non-governmental site built using pure HTML, Boostrap and Javascript.",
+      "Ife Psychologia is a non profit and non-governmental site built using pure HTML, Bootstrap and Javascript.",
     year: "2023",
     technologies: "HTML, Bootstrap, JavaScript",
     image: "./ifepsychologia.org.png",
@@ -91,7 +91,7 @@ export const projects = [
 export const myInformations = {
   fullName: "Akinola Femi",
   myPhoto: "/mackie.png",
-  bio: "A Nigeria-based front-end developer passionate about building accessible and user-friendly websites.",
+  bio: "A Nigeria based front-end developer passionate about building accessible and user-friendly websites.",
   myEmail: "zealfemi@gmail.com",
   linkedinUrl: "https://www.linkedin.com/in/akinola-femi",
   githubUrl: "https://github.com/zealfemi",
