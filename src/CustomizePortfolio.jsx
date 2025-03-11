@@ -90,7 +90,7 @@ export const projects = [
 // Informations
 export const myInformations = {
   fullName: "Akinola Oluwafemi",
-  myPhoto: "/..",
+  myPhoto: "/mackie.png",
   bio: "A Nigeria-based front-end developer passionate about building accessible and user-friendly websites.",
   myEmail: "zealfemi@gmail.com",
   linkedinUrl: "https://www.linkedin.com/in/akinola-femi",
